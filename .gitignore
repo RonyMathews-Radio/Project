@@ -1,0 +1,4 @@
+#This is a comment
+secrets.txt
+#ignore all files with .ova extension
+*.ova
